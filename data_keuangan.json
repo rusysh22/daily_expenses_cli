@@ -1,0 +1,17 @@
+{
+    "pengaturan": {
+        "pin": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+    },
+    "transaksi": [
+        {
+            "id": 1,
+            "tanggal": "2026-01-21",
+            "kategori": "gaji",
+            "jumlah": 1000000.0,
+            "deskripsi": "Gaji Januari 2026",
+            "cara_bayar": "Cash",
+            "tipe": "pemasukan"
+        }
+    ],
+    "anggaran": {}
+}
